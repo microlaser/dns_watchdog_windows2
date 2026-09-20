@@ -31,7 +31,7 @@ All output is also written to a timestamped log file.
 ## Installation
 
 ```powershell
-git clone https://github.com/<your-username>/dns-watchdog.git
+git clone https://github.com/microlaser/dns-watchdog.git
 cd dns-watchdog\windows
 ```
 
